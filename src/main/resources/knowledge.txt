@@ -1,0 +1,14 @@
+Spring Boot is a framework built on top of Spring.
+
+Spring Bean is an object managed by the Spring IoC container.
+
+Dependency Injection is a technique in which an object receives
+its dependencies from an external container.
+
+Spring Boot auto-configuration automatically configures components
+based on the dependencies available in the application.
+
+REST APIs allow applications to communicate over HTTP.
+
+JWT is commonly used to carry claims for authentication
+and authorization between parties.
